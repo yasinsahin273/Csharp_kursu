@@ -1,0 +1,7 @@
+C:\Users\Yasin\OneDrive\Masaüstü\C# DERSLERİM\as\Csharpders\CSharp_2\obj\Debug\CSharp_2.csproj.AssemblyReference.cache
+C:\Users\Yasin\OneDrive\Masaüstü\C# DERSLERİM\as\Csharpders\CSharp_2\obj\Debug\CSharp_2.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\OneDrive\Masaüstü\C# DERSLERİM\as\Csharpders\CSharp_2\bin\Debug\CSharp_2.exe.config
+C:\Users\Yasin\OneDrive\Masaüstü\C# DERSLERİM\as\Csharpders\CSharp_2\bin\Debug\CSharp_2.exe
+C:\Users\Yasin\OneDrive\Masaüstü\C# DERSLERİM\as\Csharpders\CSharp_2\bin\Debug\CSharp_2.pdb
+C:\Users\Yasin\OneDrive\Masaüstü\C# DERSLERİM\as\Csharpders\CSharp_2\obj\Debug\CSharp_2.exe
+C:\Users\Yasin\OneDrive\Masaüstü\C# DERSLERİM\as\Csharpders\CSharp_2\obj\Debug\CSharp_2.pdb
